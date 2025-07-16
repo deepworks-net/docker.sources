@@ -1,0 +1,6 @@
+[submodule "build"]
+	path = build
+	url = https://github.com/deepworks-net/utilities.apache.git
+[submodule "scripts/utils"]
+	path = scripts/utils
+	url = https://github.com/deepworks-net/utilities.docker.git
