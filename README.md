@@ -188,12 +188,6 @@ Contributions are welcome! Please:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-
-For issues, questions, or contributions:
-- GitHub Issues: [https://github.com/deepworks-net/docker.sources/issues](https://github.com/deepworks-net/docker.sources/issues)
-- Email: support@deepworks.net
-
 ## Acknowledgments
 
 This project leverages two external utilities as Git submodules:
