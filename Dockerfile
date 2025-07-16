@@ -48,9 +48,7 @@ FROM base_sources AS base-sources-bootable
 COPY --from=base_sources / /
 
 # 'IF' Layer
-#FROM base-${VERSION} AS base
-## Hot fix for Docker Hub to Test
-FROM base-sources AS base
+FROM base-${VERSION} AS base
 
 # Add all changes to scratch image
 FROM scratch AS final
